@@ -60,10 +60,10 @@ Certifique-se de estar na pasta raiz do projeto (`Trabalho-2-de-seguranca`).
 Execute o script com:
 
 ```bash
-python parte1_e_2_saes.py
+python Parte1_e_Parte2.py
 ```
 
-- O script lerá o arquivo `entradas.json`.
+- O script lerá o arquivo `Entradas_Parte1_e_parte2.json`.
 - Mostrará no terminal as saídas intermediárias, o resultado final e a demonstração da vulnerabilidade do modo ECB.
 
 ### Parte 3: Simulação do AES Real
@@ -81,7 +81,7 @@ python parte3.py
 
 As mensagens e chaves podem ser modificadas diretamente nos arquivos `.json`:
 
-- Para o **S-AES**: edite o arquivo `entradas.json`.
+- Para o **S-AES**: edite o arquivo `Entradas_Parte1_e_parte2.json`.
 - Para o **AES Real**: edite o arquivo `entradas_parte3.json`.  
   Você pode definir se deseja gerar chaves e IVs aleatoriamente ou usar valores personalizados.
 
