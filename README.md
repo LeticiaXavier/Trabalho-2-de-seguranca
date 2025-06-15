@@ -71,7 +71,7 @@ python parte1_e_2_saes.py
 Execute o script com:
 
 ```bash
-python parte3_aes_real.py
+python parte3.py
 ```
 
 - O script lerá o arquivo `entradas_parte3.json`.
