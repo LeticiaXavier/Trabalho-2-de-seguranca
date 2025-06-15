@@ -1,0 +1,14 @@
+{
+  "s_aes": {
+    "descricao": "Entradas para a implementação do S-AES (Parte 1 e 2)",
+    "mensagem": "abab",
+    "chave_hex": "4AF5"
+  },
+  "aes_real": {
+    "descricao": "Entradas para a simulação do AES Real (Parte 3)",
+    "mensagem": "Esta é uma mensagem de teste para a cifra AES com diferentes modos.",
+    "gerar_chave_e_iv_aleatorios": true,
+    "chave_personalizada_hex": "1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d",
+    "iv_personalizado_hex": "0102030405060708090a0b0c0d0e0f10"
+  }
+}
