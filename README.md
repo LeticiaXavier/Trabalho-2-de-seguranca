@@ -63,8 +63,11 @@ Para o S-AES: Modifique o arquivo entradas.json.
 
 Para o AES Real: Modifique o arquivo entradas_parte3.json. Você pode alterar a mensagem e decidir se deseja gerar chaves/IVs aleatórios ou usar valores personalizados.
 
-Autorias
-Nome: [Letícia Xavier de Almeida Silva]
-Matrícula: [190142685]
-Nome: [Gustavo Vieira do Nascimento]
-Matícula: [222012872]
+Autoria
+Nome: Letícia Xavier de Almeida Silva
+
+Matrícula: 190142685
+
+Nome: Gustavo Vieira do Nascimento
+
+Matrícula: 222012872
